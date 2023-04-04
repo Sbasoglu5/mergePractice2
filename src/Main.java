@@ -5,6 +5,6 @@ public class Main {
 
         SezarCode add2=new SezarCode();
         add2.name="Sezar";
-        add2.age=34;
+        add2.age="34";
     }
 }
